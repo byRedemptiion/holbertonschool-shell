@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello $(whoami)"
+printf "%.2f\n" $NUM
